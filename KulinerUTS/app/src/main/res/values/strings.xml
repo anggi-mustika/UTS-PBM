@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Culinary Receipes Apps</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Terimakasih Telah Menggunakan Layanan Kami</string>
+    <string name="this_fragment">Ini adalah menu fragment</string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="search_hint">Masukkan Kata</string>
+
+</resources>
